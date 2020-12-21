@@ -126,6 +126,25 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Gary",
+      "species": "Turtle",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Len",
+      "species": "Duck",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
